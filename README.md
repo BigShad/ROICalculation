@@ -1,1 +1,1 @@
-# ROICalculation an python application that helps calculation for home buyers. 
+# ROICalculation a python application that facilitates calculation for home buyers. 
